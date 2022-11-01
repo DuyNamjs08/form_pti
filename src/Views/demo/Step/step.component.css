@@ -1,0 +1,75 @@
+/* Start CSS step */
+
+.py-3 {
+    padding-top: 1rem!important;
+    padding-bottom: 1rem!important;
+}
+
+.list-step {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+}
+
+.list-step li.active .item {
+    border-color: #f58220 !important;
+}
+
+.list-step li.active {
+    color: #f58220 !important;
+}
+
+.list-step li .item {
+    display: flex;
+    align-items: center;
+    padding: 10px 0;
+    border-bottom: 1px solid #aeaeae;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 700;
+    margin-right: 10px;
+}
+
+.list-step li.active .item span {
+    background: #f58220 !important;
+}
+.list-step li.done .item {
+    border-color: #337ab7;
+}
+.list-step li.done {
+    color: #337ab7 !important;
+}
+.list-step li.done .item span {
+    background: #337ab7 !important;
+}
+.list-step li .item span {
+    width: 25px;
+    height: 25px;
+    border-radius: 5px;
+    background: #aeaeae;
+    text-align: center;
+    color: white;
+}
+
+.list-step li span {
+    width: 40px;
+    height: 40px;
+    background: #c4c4c4;
+    border-radius: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.list-step li .item p {
+    width: calc(100% - 35px);
+    margin-left: 10px;
+    /* white-space: nowrap; */
+}
+
+.list-step li p {
+    margin: 0;
+}
+
+
+/* End CSS step */

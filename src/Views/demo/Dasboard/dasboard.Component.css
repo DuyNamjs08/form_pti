@@ -1,0 +1,24 @@
+.body-img {
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-right: 20px;
+    background-image: url('../../../Plugin/images/login/bg-done.png');
+    border-radius: 15px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.d-flex {
+    display: flex !important;
+}
+
+.date {
+    margin-left: 20px;
+}
+
+.content {
+    color: #198754;
+    margin-left: 5px;
+}

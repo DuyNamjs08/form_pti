@@ -1,0 +1,461 @@
+@media only screen and (max-width: 767px) {
+    .btn-toolbar_des {
+        display: none !important;
+    }
+    .btn-action a {
+        white-space: nowrap;
+    }
+    .container-fluid {
+        padding: 0 15px !important;
+    }
+    .top_noti .container-fluid {
+        padding: 0 20px !important;
+    }
+    /*.main {
+        margin-top: 80px !important;
+    }*/
+    .logo-login-02 .top_nav-item a {
+        font-size: 10px !important;
+    }
+    .login-wrapper {
+        overflow: hidden;
+    }
+    footer h4 {
+        font-size: 16px !important;
+        line-height: 20px !important;
+    }
+    footer p {
+        font-size: 12px !important;
+    }
+    .img-footer {
+        height: 250px !important;
+    }
+    .delete-table {
+        overflow-x: auto;
+    }
+    .form-select {
+        margin-left: 0 !important;
+    }
+    .logo-login {
+        top: 0 !important;
+        left: 0 !important;
+        right: 0 !important;
+        padding: 10px !important;
+    }
+    .logo-login img {
+        width: 80px;
+    }
+    .logo-login-02 .top_nav-item {
+        padding: 5px !important;
+    }
+    .logo-login-02 .top_nav-item:first-child {
+        margin-right: 5px !important;
+    }
+    .card-body {
+        padding: 0 !important;
+    }
+    .card-body>div:first-child {
+        padding: 0;
+    }
+    .tool-bar {
+        padding: 10px 20px !important;
+    }
+    .card-header {
+        width: 100%;
+        margin: 0 !important;
+        /*padding: 30px 10px !important;*/
+    }
+    .show-location {
+        border-radius: 0 !important;
+    }
+    .more-infor div {
+        font-size: 14px;
+    }
+    .log-date-status {
+        margin-left: 7rem;
+    }
+    .log-date .form-control {
+        text-align: left !important;
+    }
+    .qmk-modal .modal-title {
+        font-size: 16px;
+    }
+    .show-form {
+        padding-bottom: 20px;
+    }
+    .status {
+        display: flex;
+        justify-content: flex-start;
+        margin: 0;
+    }
+    .home-page .menu-hearder {
+        padding: 5px 10px !important;
+    }
+    label {
+        font-size: 14px;
+    }
+    .main-content .title {
+        font-size: 14px;
+    }
+    .card-header {
+        padding: 10px;
+    }
+    .card-title p {
+        font-size: 12px;
+        margin-bottom: 0 !important;
+        line-height: 12px;
+    }
+    .card-header span {
+        margin-top: 10px;
+        font-size: 20px;
+    }
+    .card-title h2 {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .contact-infor {
+        display: none !important;
+        padding: 0 !important;
+    }
+    .contact-infor .icon {
+        padding-right: 10px !important;
+    }
+    .contact-infor .icon svg {
+        width: 30px;
+        height: 30px;
+    }
+    .contact-infor .infor {
+        padding-left: 10px !important;
+    }
+    .contact-infor .infor span {
+        font-size: 12px;
+    }
+    .currency {
+        margin-top: 10px;
+        margin-bottom: 15px;
+    }
+    .list-step {
+        width: 100%;
+    }
+    .list-step li {
+        margin-right: 10px;
+    }
+    .list-step li.done {
+        color: #007dc6;
+        border-bottom: none;
+    }
+    .list-step li.done .item p {
+        display: none;
+    }
+    .list-step li.done .item span {
+        background: #007dc6;
+    }
+    .list-step li.active .item {
+        border-bottom: 1px solid !important;
+    }
+    .list-step li.active .item p {
+        display: flex !important;
+        font-size: 12px !important;
+        min-width: 80px;
+        white-space: inherit;
+    }
+    .list-step li .item {
+        margin-right: 10px;
+        padding: 10px 0 !important;
+        border-bottom: none !important;
+    }
+    .list-step .item p {
+        display: none;
+    }
+    .tool-bar-fixed {
+        padding: 17px !important;
+        gap: 10px 0;
+        left: 0;
+        right: 0;
+        position: fixed;
+        /*top: 80px !important;*/
+        z-index: 50;
+    }
+    .hid-form {
+        align-items: flex-start !important;
+    }
+    .hid-form input {
+        margin-top: 4px
+    }
+    .list-btn button {
+        font-size: 12px;
+    }
+    .btn-action span {
+        font-size: 12px;
+    }
+    .currency p {
+        font-size: 14px;
+    }
+    .attention {
+        font-size: 16px !important;
+        width: 20%;
+    }
+    .list-note {
+        width: 80%;
+    }
+    .btn {
+        padding: 10px !important;
+        font-size: 10px !important;
+    }
+    .btn-next {
+        margin-right: 30px !important;
+        width: 100%;
+    }
+    .box1,
+    .box2 {
+        padding: 20px !important;
+    }
+    .box1 {
+        border-radius: 10px 10px 0 0 !important;
+        box-shadow: none !important;
+    }
+    .box2 {
+        border-radius: 0 0 10px 10px !important;
+    }
+    .box1 .sub-title,
+    .box2 .sub-title {
+        font-size: 10px;
+    }
+    .box1 .name,
+    .box2 .name,
+    .box2 .status {
+        font-size: 14px;
+    }
+    #CHECK_HD label {
+        font-size: 12px;
+        line-height: normal;
+    }
+    .hidden-control>label {
+        font-size: 14px;
+        line-height: 20px;
+        padding-left: 0;
+    }
+    footer ul {
+        display: flex;
+        flex-direction: column;
+    }
+    footer ul li {
+        border-right: none !important;
+        margin-bottom: 10px;
+    }
+    .car-img {
+        padding: 0 !important;
+        flex-direction: column;
+    }
+    .upload-step {
+        width: 100% !important;
+    }
+    .guide-img {
+        width: 300px !important;
+        height: 300px !important;
+        margin: 15px 0px;
+    }
+    .list-btn-cdtt {
+        flex-direction: column;
+    }
+    .list-btn-cdtt button {
+        margin-top: 10px;
+    }
+    .box-cover {
+        padding: 20px !important;
+    }
+    #bhhd_bagcn_dno .modal-title {
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .currency p:first-child {
+        padding-left: 0px !important;
+        font-size: 14px !important;
+    }
+    .text-sm-small {
+        font-size: 16px !important;
+    }
+    .list-action-mobile {
+        display: block !important;
+    }
+    .list-btn-deskop {
+        display: none;
+    }
+    .btn-toolbar_mob {
+        display: flex !important;
+    }
+    .noti-header .modal-title {
+        font-size: 18px;
+    }
+    .span-hd {
+        margin-right: 15px;
+    }
+    .tab-slider--tabs {
+        width: 100%;
+    }
+    .tab-slider--trigger {
+        width: 50%;
+        text-align: center;
+    }
+    .list-btn-search {
+        flex-direction: column;
+    }
+    .list-btn-search .btn-search {
+        margin-right: 0 !important;
+        margin-bottom: 10px;
+    }
+    .list-btn-search .btn-next {
+        width: auto !important;
+    }
+    .cover-bg {
+        flex-direction: column;
+    }
+    .cover-bg .btn-back {
+        align-self: flex-end;
+        margin-top: 10px;
+    }
+    #Gr_lke_slide {
+        display: flex !important;
+        justify-content: center !important;
+    }
+    .modal-title {
+        font-size: 18px;
+    }
+    .bootstrap-select .dropdown-menu li a {
+        white-space: normal !important;
+        word-break: break-word;
+    }
+    .account-btn {
+        white-space: nowrap;
+        width: calc(100% / 2);
+    }
+    .menu_close {
+        margin-left: 10px;
+    }
+    .btn-redo:hover .fas {
+        color: #007dc6 !important;
+    }
+    .btn-redo:hover {
+        color: #373f41 !important;
+    }
+    .icon-item.user-name {
+        padding-left: 0 !important;
+    }
+    .product-action-buttons {
+        margin-bottom: 10px;
+    }
+}
+
+@media only screen and (max-width: 1024px) and (min-width: 768px) {
+    .btn-toolbar_des {
+        display: none !important;
+    }
+    .btn-redo:hover .fas {
+        color: #007dc6 !important;
+    }
+    .btn-redo:hover {
+        color: #373f41 !important;
+    }
+    .menu_close {
+        margin-left: 10px;
+    }
+    .account-btn {
+        white-space: nowrap;
+        width: calc(100% / 2);
+    }
+    .bootstrap-select .dropdown-menu li a {
+        white-space: normal !important;
+        word-break: break-word;
+    }
+    .bootstrap-select .dropdown-menu {
+        min-width: 350px !important;
+    }
+    .header-form p {
+        font-size: 16px;
+    }
+    .home-page .menu-hearder .menu-list--item {
+        display: none;
+    }
+    .span-hd {
+        margin-right: 60px;
+    }
+    .hd-text {
+        width: calc(100% - 160px) !important;
+    }
+    .box1 {
+        box-shadow: none !important;
+        border-radius: 10px 10px 0 0 !important;
+    }
+    .box2 {
+        border-radius: 0 0 10px 10px !important;
+    }
+    .list-step li.done {
+        color: #007dc6;
+        border-bottom: none;
+    }
+    .list-step li.done .item p {
+        display: none;
+    }
+    .list-step li.done .item span {
+        background: #007dc6;
+    }
+    .list-step li.active .item {
+        border-bottom: 1px solid !important;
+    }
+    .list-step li.active .item p {
+        display: flex !important;
+        font-size: 16px !important;
+        min-width: 80px;
+    }
+    .list-step li .item {
+        margin-right: 10px;
+        padding: 10px 0 !important;
+        border-bottom: none !important;
+    }
+    .list-step .item p {
+        display: none;
+    }
+    .banner {
+        margin-top: 80px !important;
+    }
+    .home-page .header {
+        padding: 10px !important;
+    }
+    .box2 {
+        padding: 30px 20px !important;
+    }
+    .home-page .menu-hearder {
+        padding: 0 !important;
+    }
+    .system-block-02 {
+        background-position: 35% 50% !important;
+    }
+    .tool-bar-fixed {
+        padding: 15px 25px !important;
+        gap: 10px;
+        left: 0;
+        right: 0;
+        position: fixed;
+        /*top: 88px !important;*/
+        z-index: 50;
+    }
+    .log-date .form-control {
+        margin-left: 3.8rem;
+    }
+    .log-date-status {
+        margin-left: 9.8rem;
+    }
+    .btn-toolbar_mob {
+        display: flex !important;
+    }
+    .menu-hearder {
+        padding: 1rem 0;
+    }
+}
+
+@media only screen and (max-width: 1290px) {
+    .form-select {
+        color: black !important;
+        font-size: 14px !important;
+    }
+}
